@@ -258,13 +258,12 @@ letter-spacing: 0.02em;
 }
 
 .portfolio {
-
+padding-top: 120px; 
+padding-bottom: 120px;
 }
 
 .container-portfolio {
-text-align: start;
-padding-top: 120px; 
-padding-bottom: 120px;
+
 }
 
 .portfolio-title,
